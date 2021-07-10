@@ -1,0 +1,5 @@
+import java.util.Scanner //Para los inputs
+import javax.swing.* //Para ventana y guis
+import java.awt.* // mas de guis
+
+class nombreClase extends Padre //herencia
